@@ -1,0 +1,2 @@
+# Data-analysis-on-Movies-Overviews
+This project is aimed to help the movie industry by analysing the various movies based on attributes like Genre, audience votes, positive and negative reviews, etc. In total, three methods: Correlation analysis, Association analysis, and K-means clustering analysis are performed in RapidMiner to discover the patterns and make predictions about the factors that lead to movie success.
